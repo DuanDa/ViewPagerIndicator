@@ -4,6 +4,7 @@
     android:versionCode="65"
     android:versionName="2.4.1">
 
+    <!-- 1. add some text  -->
     <uses-sdk
         android:minSdkVersion="4"
         android:targetSdkVersion="16" />
